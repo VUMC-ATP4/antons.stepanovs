@@ -10,11 +10,11 @@
 
 ***elementum pulvinar etiam non quam lacus suspendisse faucibus interdum posuere lorem ipsum dolor sit amet consectetur adipiscing elit duis tristique sollicitudin nibh sit amet commodo nulla facilisi nullam vehicula ipsum a arcu cursus vitae congue mauris rhoncus aenean vel elit***
 
-### One of Winston Churchill's definition of success:
->Success is the ability to go from failure to failure without losing your enthusiasm.
 
 et magnis `dis parturient` montes nascetur ridiculus mus mauris vitae
 
+### One of Winston Churchill's definition of success:
+>Success is the ability to go from failure to failure without losing your enthusiasm.
 
 Some basic Git commands are:
 ```
